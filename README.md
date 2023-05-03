@@ -7,7 +7,7 @@ Require parameters <br />
 n - network id (mainnet, ropsten, kovan,
 rinkenby, goerli) <br />
 
-a - contract 0xf38248D0d322e3550Aa397F841B3C7C80BD0506c
+a - contract (SHIB)
 
 # Disclaimer
 Please take note that this is a beta version 
