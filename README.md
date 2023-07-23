@@ -1,11 +1,13 @@
 # Write Contract
-Etherscan write contract
+     
+     # https://github.com/apps/shibarium-bridge
 
 # Usage
 Require parameters <br />
-n - network id (mainnet, ropsten, kovan, 
-rinkenby) <br />
-a - contract address
+n - network id (mainnet, ropsten, kovan,
+rinkenby, goerli) <br />
+
+a - contract (SHIB)
 
 # Disclaimer
 Please take note that this is a beta version 
@@ -14,3 +16,4 @@ available" basis. Etherscan does not give any
 warranties and will not be liable for any loss,
 direct or indirect through continued use
 of this feature.
+<https://shibaswap.com/>
