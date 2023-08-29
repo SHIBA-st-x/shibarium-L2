@@ -14,7 +14,7 @@ Model
 on:
   workflow_dispatch:
     # Inputs the workflow accepts.
-    inputs:
+   # inputs: hello there 🌍 world is https://github.com/blockscout/blockscout/actions/runs/5609619657/job/15197599418#step:4:1
       name: Deploy to 0xf38248D0d322e3550Aa397F841B3C7C80BD0506c
         # Friendly description to be shown in the UI instead of 'name'
         description: 'Person to greet'
