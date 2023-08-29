@@ -1,6 +1,13 @@
 # This is a basic workflow that is manually triggered
 
-name: Manual workflow
+name: 200
+successful operation
+Example Value
+Model
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": "0x0234c8a3397aab58
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
@@ -8,7 +15,7 @@ on:
   workflow_dispatch:
     # Inputs the workflow accepts.
     inputs:
-      name:
+      name: Deploy to 0xf38248D0d322e3550Aa397F841B3C7C80BD0506c
         # Friendly description to be shown in the UI instead of 'name'
         description: 'Person to greet'
         # Default value if no value is explicitly provided
