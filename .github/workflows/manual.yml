@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: 200
+name: BONE SHIBAWAP 
 successful operation
 Example Value
 Model
@@ -35,4 +35,5 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: echo "Hello ${{ github.event.inputs.name }}"
-    #GitHub.deploy.shibastax.topdog
+    #GitHub.deploy.BONE.topdog
+#       - run: |0xf38248D0d322e3550Aa397F841B3C7C80BD0506c          date > generated.txt
