@@ -1,6 +1,6 @@
 # Write Contract
      
-     # https://github.com/apps/shibarium-bridge
+     # https://etherscan.io
 
 # Usage
 Require parameters <br />
