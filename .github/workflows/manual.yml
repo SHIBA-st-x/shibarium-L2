@@ -37,3 +37,4 @@ jobs:
       run: echo "Hello ${{ github.event.inputs.name }}"
     #GitHub.deploy.BONE.topdog
 #       - run: |0xf38248D0d322e3550Aa397F841B3C7C80BD0506c          date > generated.txt
+   "Hello $topdog-0106 0xf38248D0d322e3550Aa397F841B3C7C80BD0506c
